@@ -82,5 +82,6 @@ Built with **Python, Deep Learning models, and Kaggle datasets**.
 ## 👩‍💻 Author
 
 Developed by **[Sarra Zerguerras](https://github.com/sarrazer24 )**
+
 AI & Data Science Student | Backend & Mobile Developer | UI/UX Designer
 
